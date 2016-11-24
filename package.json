@@ -1,0 +1,26 @@
+{
+  "name": "mocha-demo",
+  "version": "1.0.0",
+  "description": "mocha-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickie120243/mocha-demo.git"
+  },
+  "keywords": [
+    "mocha",
+    "test"
+  ],
+  "author": "rickie120243",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickie120243/mocha-demo/issues"
+  },
+  "homepage": "https://github.com/rickie120243/mocha-demo#readme",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
+}
